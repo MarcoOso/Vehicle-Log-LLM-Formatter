@@ -1,0 +1,4 @@
+# This project uses only the Python standard library (csv, json, statistics,
+# datetime, random) so there are no third-party dependencies to install.
+# This file is kept as a convention / placeholder for future extensions
+# (e.g. an actual LLM API client such as `openai` or `anthropic`).

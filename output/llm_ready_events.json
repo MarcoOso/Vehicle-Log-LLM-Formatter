@@ -1,0 +1,344 @@
+[
+  {
+    "event_type": "diagnostic_trouble_code",
+    "dtc_code": "P0128",
+    "timestamp": "2026-09-18T08:02:30",
+    "reading_at_event": {
+      "rpm": 3687.5,
+      "throttle_pct": 56.3,
+      "coolant_temp_f": 116.3,
+      "vehicle_speed_mph": 85.0
+    },
+    "context_window_seconds": 5,
+    "sensor_summary_before_event": {
+      "rpm": {
+        "avg": 3435.6,
+        "min": 3373.1,
+        "max": 3507.8
+      },
+      "throttle_pct": {
+        "avg": 58.8,
+        "min": 57.5,
+        "max": 60.0
+      },
+      "coolant_temp_f": {
+        "avg": 114.9,
+        "min": 114.3,
+        "max": 115.8
+      },
+      "vehicle_speed_mph": {
+        "avg": 85.0,
+        "min": 85.0,
+        "max": 85.0
+      }
+    },
+    "sensor_summary_after_event": {
+      "rpm": {
+        "avg": 3418.2,
+        "min": 3253.7,
+        "max": 3614.7
+      },
+      "throttle_pct": {
+        "avg": 55.6,
+        "min": 53.5,
+        "max": 56.7
+      },
+      "coolant_temp_f": {
+        "avg": 117.1,
+        "min": 116.4,
+        "max": 117.9
+      },
+      "vehicle_speed_mph": {
+        "avg": 85.0,
+        "min": 85.0,
+        "max": 85.0
+      }
+    },
+    "description": "Fault code P0128 triggered at 2026-09-18T08:02:30. At the moment of the event: RPM=3687.5, throttle=56.3%, coolant temp=116.3F, speed=85.0 mph."
+  },
+  {
+    "event_type": "diagnostic_trouble_code",
+    "dtc_code": "P0171",
+    "timestamp": "2026-09-18T08:02:31",
+    "reading_at_event": {
+      "rpm": 3614.7,
+      "throttle_pct": 56.2,
+      "coolant_temp_f": 116.4,
+      "vehicle_speed_mph": 85.0
+    },
+    "context_window_seconds": 5,
+    "sensor_summary_before_event": {
+      "rpm": {
+        "avg": 3471.6,
+        "min": 3373.1,
+        "max": 3687.5
+      },
+      "throttle_pct": {
+        "avg": 58.4,
+        "min": 56.3,
+        "max": 60.0
+      },
+      "coolant_temp_f": {
+        "avg": 115.3,
+        "min": 114.6,
+        "max": 116.3
+      },
+      "vehicle_speed_mph": {
+        "avg": 85.0,
+        "min": 85.0,
+        "max": 85.0
+      }
+    },
+    "sensor_summary_after_event": {
+      "rpm": {
+        "avg": 3354.4,
+        "min": 3253.7,
+        "max": 3584.2
+      },
+      "throttle_pct": {
+        "avg": 55.4,
+        "min": 53.5,
+        "max": 56.7
+      },
+      "coolant_temp_f": {
+        "avg": 117.5,
+        "min": 116.7,
+        "max": 118.4
+      },
+      "vehicle_speed_mph": {
+        "avg": 85.0,
+        "min": 85.0,
+        "max": 85.0
+      }
+    },
+    "description": "Fault code P0171 triggered at 2026-09-18T08:02:31. At the moment of the event: RPM=3614.7, throttle=56.2%, coolant temp=116.4F, speed=85.0 mph."
+  },
+  {
+    "event_type": "diagnostic_trouble_code",
+    "dtc_code": "P0420",
+    "timestamp": "2026-09-18T08:02:32",
+    "reading_at_event": {
+      "rpm": 3584.2,
+      "throttle_pct": 56.7,
+      "coolant_temp_f": 116.7,
+      "vehicle_speed_mph": 85.0
+    },
+    "context_window_seconds": 5,
+    "sensor_summary_before_event": {
+      "rpm": {
+        "avg": 3504.7,
+        "min": 3373.1,
+        "max": 3687.5
+      },
+      "throttle_pct": {
+        "avg": 57.6,
+        "min": 56.2,
+        "max": 59.3
+      },
+      "coolant_temp_f": {
+        "avg": 115.7,
+        "min": 114.7,
+        "max": 116.4
+      },
+      "vehicle_speed_mph": {
+        "avg": 85.0,
+        "min": 85.0,
+        "max": 85.0
+      }
+    },
+    "sensor_summary_after_event": {
+      "rpm": {
+        "avg": 3276.2,
+        "min": 3193.4,
+        "max": 3337.9
+      },
+      "throttle_pct": {
+        "avg": 54.8,
+        "min": 53.5,
+        "max": 56.4
+      },
+      "coolant_temp_f": {
+        "avg": 117.9,
+        "min": 117.1,
+        "max": 118.8
+      },
+      "vehicle_speed_mph": {
+        "avg": 85.0,
+        "min": 85.0,
+        "max": 85.0
+      }
+    },
+    "description": "Fault code P0420 triggered at 2026-09-18T08:02:32. At the moment of the event: RPM=3584.2, throttle=56.7%, coolant temp=116.7F, speed=85.0 mph."
+  },
+  {
+    "event_type": "diagnostic_trouble_code",
+    "dtc_code": "P0171",
+    "timestamp": "2026-09-18T08:05:00",
+    "reading_at_event": {
+      "rpm": 1232.3,
+      "throttle_pct": 0.0,
+      "coolant_temp_f": 159.1,
+      "vehicle_speed_mph": 7.4
+    },
+    "context_window_seconds": 5,
+    "sensor_summary_before_event": {
+      "rpm": {
+        "avg": 782.6,
+        "min": 715.7,
+        "max": 889.5
+      },
+      "throttle_pct": {
+        "avg": 0.0,
+        "min": 0.0,
+        "max": 0.0
+      },
+      "coolant_temp_f": {
+        "avg": 157.9,
+        "min": 157.0,
+        "max": 158.7
+      },
+      "vehicle_speed_mph": {
+        "avg": 12.4,
+        "min": 9.6,
+        "max": 15.9
+      }
+    },
+    "sensor_summary_after_event": {
+      "rpm": {
+        "avg": 871.9,
+        "min": 734.7,
+        "max": 1021.2
+      },
+      "throttle_pct": {
+        "avg": 0.0,
+        "min": 0.0,
+        "max": 0.0
+      },
+      "coolant_temp_f": {
+        "avg": 160.5,
+        "min": 159.6,
+        "max": 161.5
+      },
+      "vehicle_speed_mph": {
+        "avg": 5.9,
+        "min": 4.6,
+        "max": 7.9
+      }
+    },
+    "description": "Fault code P0171 triggered at 2026-09-18T08:05:00. At the moment of the event: RPM=1232.3, throttle=0.0%, coolant temp=159.1F, speed=7.4 mph."
+  },
+  {
+    "event_type": "diagnostic_trouble_code",
+    "dtc_code": "P0171",
+    "timestamp": "2026-09-18T08:05:01",
+    "reading_at_event": {
+      "rpm": 1021.2,
+      "throttle_pct": 0.0,
+      "coolant_temp_f": 159.6,
+      "vehicle_speed_mph": 7.9
+    },
+    "context_window_seconds": 5,
+    "sensor_summary_before_event": {
+      "rpm": {
+        "avg": 876.5,
+        "min": 715.7,
+        "max": 1232.3
+      },
+      "throttle_pct": {
+        "avg": 0.0,
+        "min": 0.0,
+        "max": 0.0
+      },
+      "coolant_temp_f": {
+        "avg": 158.3,
+        "min": 157.6,
+        "max": 159.1
+      },
+      "vehicle_speed_mph": {
+        "avg": 10.7,
+        "min": 7.4,
+        "max": 13.9
+      }
+    },
+    "sensor_summary_after_event": {
+      "rpm": {
+        "avg": 825.2,
+        "min": 734.7,
+        "max": 897.3
+      },
+      "throttle_pct": {
+        "avg": 0.0,
+        "min": 0.0,
+        "max": 0.0
+      },
+      "coolant_temp_f": {
+        "avg": 160.9,
+        "min": 160.1,
+        "max": 161.8
+      },
+      "vehicle_speed_mph": {
+        "avg": 5.2,
+        "min": 4.0,
+        "max": 5.8
+      }
+    },
+    "description": "Fault code P0171 triggered at 2026-09-18T08:05:01. At the moment of the event: RPM=1021.2, throttle=0.0%, coolant temp=159.6F, speed=7.9 mph."
+  },
+  {
+    "event_type": "diagnostic_trouble_code",
+    "dtc_code": "P0420",
+    "timestamp": "2026-09-18T08:07:30",
+    "reading_at_event": {
+      "rpm": 3268.0,
+      "throttle_pct": 48.0,
+      "coolant_temp_f": 196.1,
+      "vehicle_speed_mph": 85.0
+    },
+    "context_window_seconds": 5,
+    "sensor_summary_before_event": {
+      "rpm": {
+        "avg": 3149.7,
+        "min": 2984.3,
+        "max": 3374.7
+      },
+      "throttle_pct": {
+        "avg": 51.7,
+        "min": 47.1,
+        "max": 55.8
+      },
+      "coolant_temp_f": {
+        "avg": 196.3,
+        "min": 196.0,
+        "max": 196.7
+      },
+      "vehicle_speed_mph": {
+        "avg": 85.0,
+        "min": 85.0,
+        "max": 85.0
+      }
+    },
+    "sensor_summary_after_event": {
+      "rpm": {
+        "avg": 3088.1,
+        "min": 2999.2,
+        "max": 3267.0
+      },
+      "throttle_pct": {
+        "avg": 49.7,
+        "min": 47.2,
+        "max": 52.9
+      },
+      "coolant_temp_f": {
+        "avg": 196.9,
+        "min": 196.2,
+        "max": 197.5
+      },
+      "vehicle_speed_mph": {
+        "avg": 85.0,
+        "min": 85.0,
+        "max": 85.0
+      }
+    },
+    "description": "Fault code P0420 triggered at 2026-09-18T08:07:30. At the moment of the event: RPM=3268.0, throttle=48.0%, coolant temp=196.1F, speed=85.0 mph."
+  }
+]

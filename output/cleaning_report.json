@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-09-19T19:19:23.405547",
+  "raw_row_count": 500,
+  "clean_row_count": 499,
+  "issues_found": 8,
+  "issues": [
+    {
+      "row_index": 20,
+      "issue": "missing_value",
+      "field": "coolant_temp_f",
+      "detail": "Missing coolant_temp_f; forward-filled with 74.5."
+    },
+    {
+      "row_index": 60,
+      "issue": "out_of_range_value",
+      "field": "rpm",
+      "detail": "rpm=9999.9 outside plausible range [500, 8000]; replaced with last good value 3292.3."
+    },
+    {
+      "row_index": 87,
+      "issue": "missing_value",
+      "field": "coolant_temp_f",
+      "detail": "Missing coolant_temp_f; forward-filled with 96.3."
+    },
+    {
+      "row_index": 100,
+      "issue": "duplicate_timestamp",
+      "detail": "Timestamp 2026-09-18T08:01:39 already seen; row skipped."
+    },
+    {
+      "row_index": 150,
+      "issue": "malformed_dtc_code",
+      "detail": "DTC code normalized from ' p0128 ' to 'P0128'."
+    },
+    {
+      "row_index": 210,
+      "issue": "missing_value",
+      "field": "coolant_temp_f",
+      "detail": "Missing coolant_temp_f; forward-filled with 132.4."
+    },
+    {
+      "row_index": 300,
+      "issue": "malformed_dtc_code",
+      "detail": "DTC code normalized from ' p0171 ' to 'P0171'."
+    },
+    {
+      "row_index": 333,
+      "issue": "missing_value",
+      "field": "coolant_temp_f",
+      "detail": "Missing coolant_temp_f; forward-filled with 170.1."
+    }
+  ],
+  "events_extracted": 6
+}
